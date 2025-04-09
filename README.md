@@ -19,7 +19,6 @@ We have made a prototype of our project and the details are mentioned below:
 - **Transformers (Hugging Face)** for NLP models
 - **TensorFlow / PyTorch** for Deep Learning
 - **Frontend:** React.js / HTML-CSS-JS
-- **Databases:** MySQL / PostgreSQL 
 
 ## 📦 Models Used
 We used **pretrained models from Hugging Face**:
